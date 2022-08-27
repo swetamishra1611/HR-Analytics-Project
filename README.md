@@ -1,7 +1,7 @@
 # HR-Analytics-Project
 Following software and tools are used in this Project:
 * Python language for data visualization
-* Jupiter Notebook
+* Jupyter Notebook
 * Modules required in Python
   1)matplotlib module
   2)Pandas module
